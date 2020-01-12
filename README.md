@@ -1,2 +1,2 @@
 # digiplan
-Digiplan Platform
+Digiplan Platform created with Laravel Framework
